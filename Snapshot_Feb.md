@@ -5,6 +5,10 @@
 - Make changes on https://github.com/snapshot-labs/snapshot/pull/228
 - Fix timezone bug with datepicker https://github.com/snapshot-labs/snapshot/pull/240
 
+## Code review
+- https://github.com/snapshot-labs/snapshot/pull/239
+- https://github.com/snapshot-labs/snapshot.js/pull/109
+
 
 ## Expenses
 - $20 for VueMastery: Learning Vue-3 and Typescript
