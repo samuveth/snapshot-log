@@ -11,11 +11,11 @@
 - https://github.com/snapshot-labs/snapshot.js/pull/110
 - https://github.com/snapshot-labs/snapshot.js/pull/111
 
-
-## Expenses
-- $20 for VueMastery: Learning Vue-3 and Typescript
-
 ## Others
 - Support on Snapshot discord
 - Work on docs: FAQ, Strategies, Spaces https://docs.snapshot.page/
 - Learning Vue-3 and Typescript for future work on Snapshot
+
+## Expenses
+- $20 for VueMastery: Vue-3 and Typescript
+- $39 for FrontendMasters: Production grade Vuejs
