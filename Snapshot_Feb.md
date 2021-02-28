@@ -11,6 +11,8 @@
 - https://github.com/snapshot-labs/snapshot.js/pull/109
 - https://github.com/snapshot-labs/snapshot.js/pull/110
 - https://github.com/snapshot-labs/snapshot.js/pull/111
+- https://github.com/snapshot-labs/snapshot.js/pull/112
+- https://github.com/snapshot-labs/snapshot.js/pull/114
 
 ## Others
 - Support on Snapshot discord
