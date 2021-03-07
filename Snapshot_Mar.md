@@ -3,3 +3,5 @@
 
 ## Expenses
 - $12 Change ENS Record https://etherscan.io/tx/0x74d04806847ea29a5ff40c78fd51d548c3d805bab02902d40d8967c0b9faa99e
+- $20 VueMastery
+- $40 FrontendMasters
