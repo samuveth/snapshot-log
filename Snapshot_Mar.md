@@ -6,6 +6,9 @@
 - Add Total Axion Strategy https://github.com/snapshot-labs/snapshot.js/pull/121
 - ADD ERC1155 strategies https://github.com/snapshot-labs/snapshot.js/pull/120
 
+## Others 
+- Translate defaults to German on Crowdin
+
 ## Expenses
 - $12 Change ENS Record https://etherscan.io/tx/0x74d04806847ea29a5ff40c78fd51d548c3d805bab02902d40d8967c0b9faa99e
 - $20 VueMastery
